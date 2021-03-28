@@ -12,6 +12,6 @@ The link for the dataset is https://www.kaggle.com/nehalbirla/vehicle-dataset-fr
 1. Loading the dataset and doing basic EDA
 2. checking for missing values and doing feature selection
 3. building the model
-4. Creating the front end (a form for fillign details)
+4. Creating the front end (a form for filling details)
 5. Creating a Flask application
 6. Deploying to Heroku server
